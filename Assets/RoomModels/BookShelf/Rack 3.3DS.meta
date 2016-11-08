@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 70cb9a337a75241d98945a72fa6d5435
+timeCreated: 1478614054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 42_1_8
+    100002: Box05
+    100004: Box054
+    100006: Box057
+    100008: Box058
+    100010: Box059
+    100012: Box06
+    100014: Box13
+    100016: Box14
+    100018: Box15
+    100020: Box16
+    100022: Box17
+    100024: Cylinder00
+    100026: Cylinder01
+    100028: Cylinder02
+    100030: Cylinder03
+    100032: Cylinder08
+    100034: Cylinder09
+    100036: Cylinder29
+    100038: Cylinder30
+    100040: Cylinder33
+    100042: Cylinder34
+    100044: Cylinder35
+    100046: Cylinder36
+    100048: Cylinder37
+    100050: Cylinder38
+    100052: //RootNode
+    400000: 42_1_8
+    400002: Box05
+    400004: Box054
+    400006: Box057
+    400008: Box058
+    400010: Box059
+    400012: Box06
+    400014: Box13
+    400016: Box14
+    400018: Box15
+    400020: Box16
+    400022: Box17
+    400024: Cylinder00
+    400026: Cylinder01
+    400028: Cylinder02
+    400030: Cylinder03
+    400032: Cylinder08
+    400034: Cylinder09
+    400036: Cylinder29
+    400038: Cylinder30
+    400040: Cylinder33
+    400042: Cylinder34
+    400044: Cylinder35
+    400046: Cylinder36
+    400048: Cylinder37
+    400050: Cylinder38
+    400052: //RootNode
+    2300000: 42_1_8
+    2300002: Box05
+    2300004: Box054
+    2300006: Box057
+    2300008: Box058
+    2300010: Box059
+    2300012: Box06
+    2300014: Box13
+    2300016: Box14
+    2300018: Box15
+    2300020: Box16
+    2300022: Box17
+    2300024: Cylinder00
+    2300026: Cylinder01
+    2300028: Cylinder02
+    2300030: Cylinder03
+    2300032: Cylinder08
+    2300034: Cylinder09
+    2300036: Cylinder29
+    2300038: Cylinder30
+    2300040: Cylinder33
+    2300042: Cylinder34
+    2300044: Cylinder35
+    2300046: Cylinder36
+    2300048: Cylinder37
+    2300050: Cylinder38
+    3300000: 42_1_8
+    3300002: Box05
+    3300004: Box054
+    3300006: Box057
+    3300008: Box058
+    3300010: Box059
+    3300012: Box06
+    3300014: Box13
+    3300016: Box14
+    3300018: Box15
+    3300020: Box16
+    3300022: Box17
+    3300024: Cylinder00
+    3300026: Cylinder01
+    3300028: Cylinder02
+    3300030: Cylinder03
+    3300032: Cylinder08
+    3300034: Cylinder09
+    3300036: Cylinder29
+    3300038: Cylinder30
+    3300040: Cylinder33
+    3300042: Cylinder34
+    3300044: Cylinder35
+    3300046: Cylinder36
+    3300048: Cylinder37
+    3300050: Cylinder38
+    4300000: 42_1_8
+    4300002: Box05
+    4300004: Cylinder03
+    4300006: Cylinder08
+    4300008: Cylinder09
+    4300010: Box054
+    4300012: Cylinder02
+    4300014: Box06
+    4300016: Cylinder29
+    4300018: Box13
+    4300020: Cylinder30
+    4300022: Box14
+    4300024: Cylinder33
+    4300026: Box15
+    4300028: Cylinder34
+    4300030: Box16
+    4300032: Cylinder35
+    4300034: Cylinder36
+    4300036: Box17
+    4300038: Cylinder37
+    4300040: Box057
+    4300042: Cylinder38
+    4300044: Box058
+    4300046: Cylinder00
+    4300048: Box059
+    4300050: Cylinder01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
