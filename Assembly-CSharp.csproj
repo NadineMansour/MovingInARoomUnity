@@ -48,13 +48,26 @@
      <Compile Include="Assets\PlayerController.cs" />
      <Compile Include="Assets\Scripts\AJController.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\SmoothFollow.cs" />
      <None Include="Assets\RoomModels\ArmChair\archibase.net.txt" />
+     <None Include="Assets\RoomModels\TVStand\archibase.net.txt" />
+     <None Include="Assets\RoomModels\Window 1\archibase.net.txt" />
      <None Include="Assets\RoomModels\RedSofa\archibase.net.txt" />
+     <None Include="Assets\RoomModels\TV\archibase.net.txt" />
      <None Include="Assets\RoomModels\BookShelf\archibase.net.txt" />
+     <None Include="Assets\RoomModels\Laptop\archibase.net.txt" />
      <None Include="Assets\RoomModels\Desk\archibase.net.txt" />
+     <None Include="Assets\RoomModels\Bin\archibase.net.txt" />
+     <None Include="Assets\RoomModels\BeanBag\archibase.net.txt" />
+     <None Include="Assets\RoomModels\DeskLamp\archibase.net.txt" />
+     <None Include="Assets\RoomModels\TVScreen\archibase.net.txt" />
+     <None Include="Assets\RoomModels\BasketBall\archibase.net.txt" />
+     <None Include="Assets\RoomModels\Window\archibase.net.txt" />
+     <None Include="Assets\RoomModels\Curtain\archibase.net.txt" />
      <None Include="Assets\RoomModels\DeskChair\archibase.net.txt" />
      <None Include="Assets\RoomModels\LShape\archibase.net.txt" />
      <None Include="Assets\RoomModels\Plant\archibase.net.txt" />
+     <None Include="Assets\RoomModels\Shelf\archibase.net.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

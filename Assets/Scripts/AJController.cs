@@ -5,7 +5,7 @@ public class AJController : MonoBehaviour {
 	private Animator animator;
 	private float speed = 3.0f;
 	private Rigidbody rb;
-	private bool walkForward, suspendMove;
+	private bool walkForward, walkBackward,suspendMove;
 
 	// Use this for initialization
 	void Start () {
@@ -17,6 +17,7 @@ public class AJController : MonoBehaviour {
 	void Update () {
 		
 		walkForward = false;
+		walkBackward = false;
 
 		if (Input.GetKey("w") && !suspendMove){
 			//Walk forward
@@ -24,6 +25,12 @@ public class AJController : MonoBehaviour {
 			transform.Translate (0, 0, Input.GetAxis("Vertical")*2*Time.deltaTime);
 		}
 		
+		if (Input.GetKey("s") && !suspendMove){
+			//Walk backward
+			walkForward = true;
+			walkBackward = true;
+			transform.Translate (0, 0, Input.GetAxis("Vertical")*2*Time.deltaTime);
+		}
 
 		if (Input.GetKey("d")){
 			//rotate clockwise
@@ -40,6 +47,12 @@ public class AJController : MonoBehaviour {
 		
 
 		animator.SetBool("walkForward", walkForward );
+		if(walkBackward){
+			animator.SetFloat("walkingDirection", -1.0f );
+		} else
+		{
+			animator.SetFloat("walkingDirection", 1.0f );
+		}
 	}
 
 	void OnCollisionEnter (Collision col){
